@@ -3,6 +3,19 @@ title: 'Chapter Title Here'
 description: 'Chapter description goes here.'
 ---
 
+## Introduction Data streams
+
+```yaml
+type: VideoExercise
+key: 7a41f4d29c
+xp: 50
+```
+
+`@projector_key`
+6caad0cb824758b13fb2a1e31d371b08
+
+---
+
 ## Example coding exercise
 
 ```yaml
@@ -40,16 +53,3 @@ This is an example exercise.
 ```{python}
 
 ```
-
----
-
-## Introduction Data streams
-
-```yaml
-type: VideoExercise
-key: 7a41f4d29c
-xp: 50
-```
-
-`@projector_key`
-6caad0cb824758b13fb2a1e31d371b08
