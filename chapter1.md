@@ -3,6 +3,19 @@ title: 'Accessing IOT data'
 description: ""
 ---
 
+## Introduction to IOT data
+
+```yaml
+type: VideoExercise
+key: 4dbda4055f
+xp: 50
+```
+
+`@projector_key`
+68ea0870404b11bf3e07fdd66883c6be
+
+---
+
 ## Introduction Data streams
 
 ```yaml
