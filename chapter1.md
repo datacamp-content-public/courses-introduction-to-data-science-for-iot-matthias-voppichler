@@ -1,6 +1,7 @@
 ---
 title: 'Accessing IOT data'
 description: ""
+free_preview: true
 ---
 
 ## Introduction to IOT data
